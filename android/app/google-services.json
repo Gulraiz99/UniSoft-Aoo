@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544883126664",
+    "project_id": "unisofty-a6a1c",
+    "storage_bucket": "unisofty-a6a1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544883126664:android:d88ddcbfc6794f7415ca3d",
+        "android_client_info": {
+          "package_name": "com.example.unisoft_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544883126664-bhv1ukj4kmf95irmf65rbebdo8djn2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnChJzfjmtqOOO7P3r43ysNPQC3ReA_ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544883126664-bhv1ukj4kmf95irmf65rbebdo8djn2mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
